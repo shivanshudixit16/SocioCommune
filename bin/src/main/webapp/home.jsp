@@ -5,7 +5,7 @@
 		<meta charset="utf-8">
 		<title>SocCom</title>
 		<link rel="stylesheet" href="css/bootstrap.min.css">
-		<link rel="stylesheet" href="css/homecss.css">
+		<link rel="stylesheet" href="css/indexcss.css">
 	</head>
 	<body>
 		<nav class="navbar navbar-light bg-blue">
